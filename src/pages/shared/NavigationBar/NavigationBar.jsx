@@ -39,7 +39,7 @@ const NavigationBar = () => {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mx-auto">
               <NavLink
-                to="/home"
+                to="/"
                 className={({ isActive, isPending }) =>
                   isActive
                     ? "text-primary text-decoration-none mx-3"
