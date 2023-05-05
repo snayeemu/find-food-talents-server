@@ -5,6 +5,8 @@
     "chefName": "John Smith",
     "yearsOfExperience": 10,
     "numberOfRecipes": 5,
+    "bio": "Chef with 10+ years of experience specializing in French cuisine",
+    "likes": 1000,
     "recipes": [
       "Spicy Chicken Curry",
       "Roasted Vegetable Lasagne",
@@ -38,6 +40,8 @@
     "chefName": "Emma Brown",
     "yearsOfExperience": 8,
     "numberOfRecipes": 4,
+    "bio": "Passionate chef with a focus on farm-to-table and sustainable cooking",
+    "likes": 500,
     "recipes": [
       "Baked Chicken Parmesan",
       "Beef Stroganoff",
@@ -63,6 +67,8 @@
     "chefName": "Michael Davis",
     "yearsOfExperience": 12,
     "numberOfRecipes": 6,
+    "bio": "Innovative chef known for creative fusion dishes blending various cuisines",
+    "likes": 1200,
     "recipes": [
       "Baked Chicken Parmesan",
       "Beef Stroganoff",
@@ -98,6 +104,8 @@
     "chefName": "Sarah Lee",
     "yearsOfExperience": 7,
     "numberOfRecipes": 3,
+    "bio": "Traditional Italian chef with a family history of authentic recipes",
+    "likes": 800,
     "recipes": [
       "Spicy Thai Basil Chicken Stir-Fry",
       "Pesto Pasta Salad",
@@ -115,6 +123,8 @@
     "chefName": "Alex Jones",
     "yearsOfExperience": 5,
     "numberOfRecipes": 3,
+    "bio": "Celebrity chef with a popular cooking show and multiple restaurants worldwide",
+    "likes": 1500,
     "recipes": [
       "Classic Margherita Pizza",
       "Spaghetti Carbonara",
@@ -144,6 +154,8 @@
     "chefName": "Megan Wilson",
     "yearsOfExperience": 9,
     "numberOfRecipes": 4,
+    "bio": "Expert in molecular gastronomy and cutting-edge cooking techniques",
+    "likes": 2000,
     "recipes": [
       "Spicy Thai Basil Chicken Stir-Fry",
       "Pesto Pasta Salad",
