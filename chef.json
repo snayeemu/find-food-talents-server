@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "chefPicture": "https://unsplash.com/photos/lwssD_YxMnA",
     "chefName": "John Smith",
     "yearsOfExperience": 10,
     "numberOfRecipes": 5,
@@ -36,7 +36,7 @@
   },
   {
     "id": "2",
-    "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "chefPicture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "chefName": "Emma Brown",
     "yearsOfExperience": 8,
     "numberOfRecipes": 4,
@@ -63,7 +63,7 @@
   },
   {
     "id": "3",
-    "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "chefPicture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "chefName": "Michael Davis",
     "yearsOfExperience": 12,
     "numberOfRecipes": 6,
@@ -100,7 +100,7 @@
   },
   {
     "id": "4",
-    "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "chefPicture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
     "chefName": "Sarah Lee",
     "yearsOfExperience": 7,
     "numberOfRecipes": 3,
@@ -119,7 +119,7 @@
   },
   {
     "id": "5",
-    "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "chefPicture": "https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
     "chefName": "Alex Jones",
     "yearsOfExperience": 5,
     "numberOfRecipes": 3,
@@ -150,7 +150,7 @@
   },
   {
     "id": "6",
-    "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "chefPicture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=787&q=80",
     "chefName": "Megan Wilson",
     "yearsOfExperience": 9,
     "numberOfRecipes": 4,
